@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".login_module.fragments.Fragment3">
+
+    <ImageView
+        android:id="@+id/iv_header3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:paddingRight="@dimen/_20sdp"
+        android:src="@drawable/ic_character_3"
+        android:background="@drawable/ic_background_3" />
+</FrameLayout>
